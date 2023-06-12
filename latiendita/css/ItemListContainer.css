@@ -1,0 +1,13 @@
+/* ITEM LIST CONTAINER */
+.container .row .img {
+  width: 10%;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  padding: 10px;
+  justify-content: space-between;
+  text-align: center;
+}/*# sourceMappingURL=ItemListContainer.css.map */

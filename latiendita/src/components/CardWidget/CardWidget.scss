@@ -1,0 +1,23 @@
+    /* NAV LINKS BOTONES */
+    .CardWidget {
+        color: white;
+        font-size: 22px;
+
+        .CardWidget_icono {
+          color:rgb(131, 130, 130);
+        }
+      }
+  
+      .CardWidget:hover {
+        color: #bababa;
+        transition: 0.3s;
+        background-color: rgb(115, 56, 11);
+        border-radius: solid 10px;
+        font-size: 23px;
+      }
+
+
+.CardWidget_monto {
+  display: flex;
+  
+}

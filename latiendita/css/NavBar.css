@@ -1,0 +1,40 @@
+/* HEADER */
+.header {
+  background-color: rgb(42, 42, 42);
+  color: azure;
+  /* LOGO */
+  /* NAV */
+}
+.header .header_container {
+  max-width: 100%;
+  height: 130px;
+  margin: 0 auto;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header .header_logo {
+  font-size: 40px;
+  font-weight: 700;
+  color: white;
+  padding-left: 25px;
+}
+.header .header_nav {
+  display: flex;
+  gap: 24px;
+  padding-right: 100px;
+  align-items: center;
+  /* NAV LINKS BOTONES */
+}
+.header .header_nav .header_link {
+  color: white;
+  font-size: 21px;
+}
+.header .header_nav .header_link:hover {
+  color: #bababa;
+  transition: 0.3s;
+  background-color: rgb(115, 56, 11);
+  border-radius: solid 10px;
+  font-size: 24px;
+}/*# sourceMappingURL=NavBar.css.map */
